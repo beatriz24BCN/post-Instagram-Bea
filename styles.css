@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     font-family: Helvetica;
     font-weight: 100;
     background: #eaeaea;
@@ -49,11 +50,6 @@ article>header {
 
 .title_container h2 {
     font-size: 18px;
-}
-
-.post_title>div {
-    width: 50%;
-    float: left;
 }
 
 .date_container {
